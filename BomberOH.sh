@@ -212,7 +212,7 @@ echo "          $WHITE█▀▄▀█ ▄▀█ █▀ █▀   █▄
 echo "          $RED█░▀░█ █▀█ ▄█ ▄█   █▄█ █▄█ █░▀░█ █▄█ █ █░▀█ █▄█"
 echo ""
 echo ""
-printf "          \e[1;92m[\e[0m OnlineHacKing\e[1;92m ]\e[0m \e[1;93mEnter target +91 >>> \e[0m"
+printf "          \e[1;92m[\e[0m ⚡\e[1;92m ]\e[0m \e[1;93mEnter target +91 >>> \e[0m"
 read targett
 curl -s "$bombsrvr/$targett" > .output.txt
 output=$(cat .output.txt | grep "Fuck you")
