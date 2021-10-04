@@ -317,8 +317,8 @@ anonmsg(){
 clear
 echo ""
 
-echo "     $RED ▄▀█ █▄░█ █▀█ █▄░█ █▄█ █▀▄▀█ █▀█ █░█ █▀   █▀▄▀█ █▀ █▀▀"
-echo "     $WHITE █▀█ █░▀█ █▄█ █░▀█ ░█░ █░▀░█ █▄█ █▄█ ▄█   █░▀░█ ▄█ █▄█"
+echo "     $RED █▀▀ █░█ █▀ ▀█▀ █▀█ █▀▄▀█   █▀ █▀▄▀█ █▀"
+echo "     $WHITE █▄▄ █▄█ ▄█ ░█░ █▄█ █░▀░█   ▄█ █░▀░█ ▄█"
 echo ""
 echo ""
 printf "      \e[1;92m[\e[0m xlr8\e[1;92m ]\e[0m \e[1;93mEnter target  >>> \e[0m"
@@ -363,9 +363,7 @@ banner
 sleep 1
 DATE=$(date)
 echo "$WHITE✯ Started on $RED$DATE"
-echo "$WHITE------------------------------"
-printf "\e[1;33m⚡ This tool is only for Educational Purposes !!\e[0m\n"
-echo "------------------------------"
+echo ""
 echo ""
 sleep 1
 echo -e "\e[1;96m================================================================== > > >\e[m "
@@ -412,7 +410,7 @@ if [ "$options" -eq "007" ];then
 fi
 if [ "$options" -eq "5" ];then
         echo ""
-        echo -e "\e[92m[\e[91m~\e[92m]\e[93m Thanks for Using XLR8 !\e[93m"
+        echo -e "\e[92m[\e[91m~\e[92m]\e[93m Thanks for Using Mr_Bomb !\e[93m"
         echo ""
         exit
 else
