@@ -385,7 +385,7 @@ echo " "
 echo -e "\e[1;96m================================================================== > > >\e[m "
 echo ""
 echo ""
-printf "\e[1;31m Select Option !! \e[0m−−⋙⋙⋙ "
+printf "( ͡❛ ͜ʖ ͡❛) \e[1;31m Select Option !! \e[0m−−⋙⋙⋙ "
 read options
 if [ "$options" -eq "0" ];then
         bombrecord
