@@ -49,11 +49,7 @@ echo ""
  echo -e $'\e[1;33m\e[0m\e[1;33m██████████\e[0m'"\e[96m██████████"'\e[1;33m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m Super SMS & Call Bomber \e[0m'                                  
  echo ""
  echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/OnlineHacKing/Mr_Bomb \e[0m\e[1;32m\e[0m\e[1;33m] \e[0m'
- echo ""
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[93m    Author : Aunbhav"      
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m' 
-      echo ""        
+ echo ""       
       echo "  " 
 echo ""
 }
@@ -142,7 +138,7 @@ sleep 3
 echo ""
 echo -e "        \e[92m[\e[91m~\e[92m]\e[91m Restarting XLR8 !\e[93m"
 sleep 2
-bash xlr8.sh
+bash BomberOH.sh
 }
 
 
@@ -190,11 +186,11 @@ echo "                                    aka anubhavanonymous !" | pv -qL 150
 echo ""
 echo -e "     $GREEN  Ethical Hacker$WHITE |$GREEN CyberSec Enthusiast$WHITE |$GREEN Programmer" | pv -qL 10
 echo ""
-printf "\e[0m\e[92m                 Group Admin at$WHITE DeepWeb Shadows\e[0m\n" | pv -qL 12
+printf "\e[0m\e[92m                 Group Admin at$WHITE DeepWeb Shadows & Online Hacking\e[0m\n" | pv -qL 12
 echo ""
 echo "       $MAGENTA          My social handles are below !!" | pv -qL 10
 echo ""
-printf "\e[0m\e[92m          Github \e[0m\e[91m     :    \e[0m\e[96mgithub.com/anubhavanonymous\e[0m\n" | pv -qL 50
+printf "\e[0m\e[92m          Github \e[0m\e[91m     :    \e[0m\e[96mgithub.com/OnlineHacKing\e[0m\n" | pv -qL 50
 echo ""
 printf "\e[0m\e[92m         Instagram \e[0m\e[91m   :   \e[0m\e[96minstagram.com/anubhavanonymous\e[0m\n" | pv -qL 50
 echo ""
