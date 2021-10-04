@@ -50,7 +50,7 @@ echo ""
  echo ""
  echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/OnlineHacKing/Mr_Bomb \e[0m\e[1;32m\e[0m\e[1;33m] \e[0m'
  echo ""       
-      echo "            $WHITE Author:$GREEN Anubhav Kashyap"
+      echo "         ( ͡❛ ͜ʖ ͡❛)   $WHITE Author:$GREEN Anubhav Kashyap"
 echo ""
 }
 
@@ -385,7 +385,7 @@ echo " "
 echo -e "\e[1;96m======================================================== > > >\e[m "
 echo ""
 echo ""
-printf "( ͡❛ ͜ʖ ͡❛) \e[1;31m Select Option !! \e[0m−−⋙⋙⋙ "
+printf "\e[1;31m Select Option !! \e[0m−−⋙⋙⋙ "
 read options
 if [ "$options" -eq "0" ];then
         bombrecord
