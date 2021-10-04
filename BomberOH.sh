@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #------------------------------------------------------#
-#                   XLR8 BOMBER 3.0 !                  #
-#               Coded by Anubhav Kashyap               #
+#                      Mr Bomb 3.0 !                   #
+#           Coded by Anubhav & Online Hacking          #
 #~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
 #      Github     :   github.com/anubhavanonymous      #
-#     Instagram  :  instagram.com/anubhavanonymous     #
+#      Github     :   github.com/OnlineHacKing         #
 #------------------------------------------------------#
 #               Dont try to Steal it Bitch             #
 #------------------------------------------------------#
@@ -133,10 +133,10 @@ echo -e "      \e[92m[\e[93m~\e[92m]\e[36m Updating Now...\e[93m"
 sleep 2
 echo ""
 cd ..
-rm -rf XLR8_BOMBER
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER > /dev/null 2>&1
-cd XLR8_BOMBER
-chmod +x xlr8.sh
+rm -rf Mr_Bomb
+git clone https://github.com/OnlineHacKing/Mr_Bomb > /dev/null 2>&1
+cd Mr_Bomb
+chmod +x BomberOH
 clear
 echo ""
 echo "       $GREEN █▀ █▀▀ █▀█ █ █▀█ ▀█▀   █░█ █▀█ █▀▄ ▄▀█ ▀█▀ █▀▀ █▀▄"
@@ -370,15 +370,15 @@ echo ""
 sleep 1
 echo -e "\e[1;96m================================================================== > > >\e[m "
 echo " "
-printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44m Choose Gift + Package Gift + Lucky Spin \e[0m  "
+printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44m SuperFast SMS & Call Bomber \e[0m  "
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"     
 echo
-printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;91;107m Garena Gift Center \e[0m "
+printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;91;107m Best Bomber \e[0m "
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"     
 echo
-printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;37;41m Magic Event Reward \e[0m "
+printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;37;41m Update \e[0m "
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
