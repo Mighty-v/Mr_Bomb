@@ -50,8 +50,7 @@ echo ""
  echo ""
  echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/OnlineHacKing/Mr_Bomb \e[0m\e[1;32m\e[0m\e[1;33m] \e[0m'
  echo ""       
-      echo "  " 
-      echo "            $WHITE Author:$RED Anubhav Kashyap"
+      echo "            $WHITE Author:$GREEN Anubhav Kashyap"
 echo ""
 }
 
@@ -375,6 +374,10 @@ echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
 printf "\e[1;31m[\e[0m\e[1;92m04\e[0m\e[1;31m] \e[0m\e[1;34;103m Update \e[0m "
+echo
+printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
+echo
+printf "\e[1;31m[\e[0m\e[1;92m06\e[0m\e[1;31m] \e[0m\e[1;91;107m QUIT \e[0m "
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
