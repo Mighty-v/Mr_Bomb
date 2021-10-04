@@ -136,7 +136,7 @@ echo "       $WHITE ▄█ █▄▄ █▀▄ █ █▀▀ ░█░
 echo ""
 sleep 3
 echo ""
-echo -e "        \e[92m[\e[91m~\e[92m]\e[91m Restarting XLR8 !\e[93m"
+echo -e "        \e[92m[\e[91m~\e[92m]\e[91m Restarting Bomber !\e[93m"
 sleep 2
 bash BomberOH.sh
 }
@@ -212,7 +212,7 @@ echo "          $WHITE█▀▄▀█ ▄▀█ █▀ █▀   █▄
 echo "          $RED█░▀░█ █▀█ ▄█ ▄█   █▄█ █▄█ █░▀░█ █▄█ █ █░▀█ █▄█"
 echo ""
 echo ""
-printf "          \e[1;92m[\e[0m ⚡\e[1;92m ]\e[0m \e[1;93mEnter target +91 >>> \e[0m"
+printf "          \e[1;92m[\e[0m⚡\e[1;92m]\e[0m \e[1;93mEnter target +91 >>> \e[0m"
 read targett
 curl -s "$bombsrvr/$targett" > .output.txt
 output=$(cat .output.txt | grep "Fuck you")
@@ -280,9 +280,9 @@ sleep 1
 echo ""
 echo ""
 echo ""
-echo -e "   \e[92m[\e[91m~\e[92m]\e[93m It will automatically stop after 5 min\e[93m"
+echo -e "   \e[92m[\e[91m☣ ~\e[92m]\e[93m It will automatically stop after 5 min\e[93m"
 echo ""
-echo -e "   \e[92m[\e[91m~\e[92m]\e[93m After sending 300 msgs and 60 calls !!\e[93m"
+echo -e "   \e[92m[\e[91m☢ ~\e[92m]\e[93m After sending 300 msgs and 60 calls !!\e[93m"
 echo ""
 echo ""
 sleep 300
@@ -314,10 +314,10 @@ echo "     $RED █▀▀ █░█ █▀ ▀█▀ █▀█ █▀�
 echo "     $WHITE █▄▄ █▄█ ▄█ ░█░ █▄█ █░▀░█   ▄█ █░▀░█ ▄█"
 echo ""
 echo ""
-printf "      \e[1;92m[\e[0m xlr8\e[1;92m ]\e[0m \e[1;93mEnter target  >>> \e[0m"
+printf "      \e[1;92m[\e[0m ☺\e[1;92m ]\e[0m \e[1;93mEnter target  >>> \e[0m"
 read smstarget
 echo ""
-printf "      \e[1;92m[\e[0m xlr8\e[1;92m ]\e[0m \e[1;93mEnter Your Message  >>> \e[0m"
+printf "      \e[1;92m[\e[0m ☺\e[1;92m ]\e[0m \e[1;93mEnter Your Message  >>> \e[0m"
 read text
 echo ""
 
@@ -385,7 +385,7 @@ echo " "
 echo -e "\e[1;96m======================================================== > > >\e[m "
 echo ""
 echo ""
-printf "\e[1;31m Select Option !! \e[0m−−⋙⋙⋙ "
+printf " ☠ \e[1;31m Select Option !! \e[0m−−⋙⋙⋙ "
 read options
 if [ "$options" -eq "0" ];then
         bombrecord
